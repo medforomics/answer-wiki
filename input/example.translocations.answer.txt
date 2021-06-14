@@ -1,0 +1,6 @@
+FusionName	LeftGene	LeftBreakpoint	LeftGeneExons	LeftStrand	RightGene	RightBreakpoint	RightGeneExons	RightStrand	RNAReads	DNAReads	FusionType	Annot	Filter	ChrType	ChrDistance
+SLC34A2--ROS1	SLC34A2	chr4:25664330	1-4	+	ROS1	chr6:117329446	32-43	-	1032	0	in-frame	Cosmic,ChimerPub,ChimerKB,ChimerSeq,chimerdb_pubmed,CCLE_StarF2019,TCGA_StarF2019,GUO2018CR_TCGA,Klijn_CellLines	PASS	INTERCHROMOSOMAL	chr4--chr6
+ROS1--SLC34A2	ROS1	chr6:117337162	1-31	-	SLC34A2	chr4:25665008	5-13	+	5	0	.		PASS	INTERCHROMOSOMAL	chr6--chr4
+AC090615.1--AC092447.2	AC090615.1	chr17:27412717		-	AC092447.2	chr7:56568586		-	4	0	.	TCGA_StarF2019	FailedQC;OutsideGeneList;LowReadCt	INTERCHROMOSOMAL	chr17--chr7
+FP236383.2--B2M	FP236383.2	chr21:8393927		-	B2M	chr15:44715440		+	3	0	.		FailedQC;LowReadCt	INTERCHROMOSOMAL	chr21--chr15
+ROS1--SLC34A2	ROS1	chr6:117337172	1-31	-	SLC34A2	chr4:25666128	5-13	+	3	0	in-frame		PASS	INTERCHROMOSOMAL	chr6--chr4

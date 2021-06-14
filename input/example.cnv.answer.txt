@@ -1,0 +1,47 @@
+Gene	Chromosome	Start	End	Abberation Type	CN	Score	CytoBand
+NFIB	chr9	150500	14306454	hemizygous deletion	1	131.281	p24.3-p22.3
+PDCD1LG2	chr9	150500	14306454	hemizygous deletion	1	131.281	p24.3-p22.3
+KANK1	chr9	150500	14306454	hemizygous deletion	1	131.281	p24.3-p22.3
+KDM4C	chr9	150500	14306454	hemizygous deletion	1	131.281	p24.3-p22.3
+CD274	chr9	150500	14306454	hemizygous deletion	1	131.281	p24.3-p22.3
+PTPRD	chr9	150500	14306454	hemizygous deletion	1	131.281	p24.3-p22.3
+DMRT1	chr9	150500	14306454	hemizygous deletion	1	131.281	p24.3-p22.3
+JAK2	chr9	150500	14306454	hemizygous deletion	1	131.281	p24.3-p22.3
+CDK5RAP2	chr9	113731698	120389854	hemizygous deletion	1	98.9648	q32-q33.2
+TNC	chr9	113731698	120389854	hemizygous deletion	1	98.9648	q32-q33.2
+ASTN2	chr9	113731698	120389854	hemizygous deletion	1	98.9648	q32-q33.2
+TLR4	chr9	113731698	120389854	hemizygous deletion	1	98.9648	q32-q33.2
+PAPPA	chr9	113731698	120389854	hemizygous deletion	1	98.9648	q32-q33.2
+FNBP1	chr9	129890452	130042373	gain	5	12.3535	q34.11
+FAT3	chr11	91364602	92891162	hemizygous deletion	1	42.0681	q14.3
+CDKN1B	chr12	11504642	12979839	gain	3	87.2078	p13.2-p13.1
+ETV6	chr12	11504642	12979839	gain	3	87.2078	p13.2-p13.1
+PTPRO	chr12	12980339	21090127	hemizygous deletion	1	96.9995	p13.1-p12.2
+GRIN2B	chr12	12980339	21090127	hemizygous deletion	1	96.9995	p13.1-p12.2
+SLCO1B3	chr12	12980339	21090127	hemizygous deletion	1	96.9995	p13.1-p12.2
+RERG	chr12	12980339	21090127	hemizygous deletion	1	96.9995	p13.1-p12.2
+PIK3C2G	chr12	12980339	21090127	hemizygous deletion	1	96.9995	p13.1-p12.2
+ERCC5	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+LIG4	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+IRS2	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+FGF14	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+ARHGEF7	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+DACH1	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+TFDP1	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+LMO7	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+ZIC2	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+SPRY2	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+DIS3	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+EDNRB	chr13	67928746	113971587	hemizygous deletion	1	246.19	q21.32-q34
+CCNB1IP1	chr14	15947931	35091979	hemizygous deletion	1	72.6051	p11.2-q13.2
+BCL2L2	chr14	15947931	35091979	hemizygous deletion	1	72.6051	p11.2-q13.2
+AKAP6	chr14	15947931	35091979	hemizygous deletion	1	72.6051	p11.2-q13.2
+CEBPE	chr14	15947931	35091979	hemizygous deletion	1	72.6051	p11.2-q13.2
+RYR3	chr15	16924708	40159021	hemizygous deletion	1	183.504	p11.2-q15.1
+GREM1	chr15	16924708	40159021	hemizygous deletion	1	183.504	p11.2-q15.1
+NBEAP1	chr15	16924708	40159021	hemizygous deletion	1	183.504	p11.2-q15.1
+THBS1	chr15	16924708	40159021	hemizygous deletion	1	183.504	p11.2-q15.1
+NUTM1	chr15	16924708	40159021	hemizygous deletion	1	183.504	p11.2-q15.1
+SPRED1	chr15	16924708	40159021	hemizygous deletion	1	183.504	p11.2-q15.1
+RASGRP1	chr15	16924708	40159021	hemizygous deletion	1	183.504	p11.2-q15.1
+PTPRT	chr20	41908443	42885989	hemizygous deletion	1	26.7389	q12

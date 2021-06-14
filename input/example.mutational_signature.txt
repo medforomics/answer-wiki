@@ -1,0 +1,6 @@
+Signature	Proposed_Etiology	ORD4948
+3	BRCA1 / BRCA2 (failure of DNA DSBR / large INDELs)	0.2
+4	Smoking	61.2
+10	POLE (ultra-hypermutation)	16.5
+13	APOBEC	2.7
+18	Unknown (different cancers)	19.4
