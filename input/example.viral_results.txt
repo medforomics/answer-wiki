@@ -1,0 +1,7 @@
+SampleID	VirusName	VirusAcc	VirusDescription	ViralReadCt
+Sample1_Tumor	HPV_Viral	M14119	Human papillomavirus type 11 (HPV-11)	13
+Sample1_Tumor	HPV_Viral	NC_001355	Human papillomavirus type 6b	7072
+Sample1_Tumor	HHV8_Viral	NC_009333	Human herpesvirus 8	15
+Sample1_Normal	HPV_Viral	NC_001355	Human papillomavirus type 6b	592
+Sample1_Normal	HPV_Viral	NC_001357	Human papillomavirus - 18	8
+Sample1_Normal	HHV8_Viral	NC_009333	Human herpesvirus 8	6
